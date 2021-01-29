@@ -122,3 +122,11 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+.secondPage{
+    height: 150px;
+    padding-top: 40px;
+    display: none;
+    text-align: center;
+    background-color: #52AF3A;
+    color: white;
+}
